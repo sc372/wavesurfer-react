@@ -10,7 +10,7 @@
   "main": "dist/index.js",
   "author": "Denis Bogdanenko <shiirochi@yandex.ru>",
   "peerDependencies": {
-    "react": "16.8.6",
+    "react": "17.0.2",
     "wavesurfer.js": "^3.2.0, ^4.0.0"
   },
   "devDependencies": {
